@@ -1,6 +1,4 @@
-import itertools
-
-from pydantic import Field, BaseModel
+from pydantic import BaseModel
 from pydantic.color import Color
 
 
